@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './styles/App.css';
 import CheckboxComponent from './components/CheckboxComponent';
 
